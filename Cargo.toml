@@ -2,7 +2,7 @@
 name = "wgpu-surface"
 version = "0.1.0"
 edition = "2024"
-authors = ["Saad Moazzam"]
+authors = ["Saad Moazzam <saad.mzm65@gmail.com>"]
 
 [lib]
 crate-type = ["cdylib", "rlib"]
